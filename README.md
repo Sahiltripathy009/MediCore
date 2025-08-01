@@ -6,7 +6,7 @@ MediCore is a front-end healthcare web application that simplifies access to hos
 
 ## 🌐 Live Demo
 
-[Click here to view the live site](https://soumyasagarnayak.github.io/MediCore-GroupTask/)
+[Click here to view the live site](https://sahiltripathy009.github.io/MediCore/)
 
 ---
 
