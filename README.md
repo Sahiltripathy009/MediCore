@@ -48,14 +48,16 @@ To build a responsive and user-friendly healthcare web app that helps users easi
 
 ## 📂 Repository Structure
 
+```plaintext
 ├── index.html
 ├── styles/
-│ └── main.css
+│   └── main.css
 ├── scripts/
-│ └── app.js
+│   └── app.js
 ├── assets/
-│ └── images/
+│   └── images/
 └── README.md
+```
 ---
 
 ## 📌 Features
